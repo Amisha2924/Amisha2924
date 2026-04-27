@@ -10,10 +10,11 @@ Currently focusing on real-world data analytics projects.
 
 ## 🔧 Skills
 
-* Python (Pandas, NumPy)
-* SQL
+* Python 
+* MySQL
 * Tableau
 * Excel
+* AWS
 
 ---
 
